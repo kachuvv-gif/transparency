@@ -4,4 +4,4 @@
 from frictionless import describe
 
 package = describe("data/**/*.csv")
-package.to_json("datapackage.json")
+
